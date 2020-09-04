@@ -14,10 +14,10 @@ To run in production mode
 set NODE_ENV='production'
 ```
 ## Home page
-![Home](images/Screen Shot 2020-09-04 at 12.58.36 AM.png)
+![Home](images/home_page.png)
 
 ## View books by author
-![Books_by_author](images/Screen Shot 2020-09-04 at 12.59.24 AM.png)
+![Books_by_author](images/books_by_author.png)
 
 ## Form to add an author
-![Add_author](images/Screen Shot 2020-09-04 at 12.59.44 AM.png)
+![Add_author](images/add_author_form.png)
